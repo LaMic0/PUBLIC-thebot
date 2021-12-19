@@ -48,10 +48,10 @@ case 10:msg.reply("Fuck u friend啦");break;
 	   if(msg.content.startsWith("/nothing")){
       var rnd = Random(70,1);
 switch(rnd){
-    case 1:msg.reply("就是賤! 你賤到骨子裡啊");break;
+    case 1:msg.reply("幹白癡白癡 什麼地圖砲 我在這裡就是地圖砲");break;
     case 2:msg.reply("https://imgur.com/NQinKJB");break;
-    case 3:msg.reply("我的很大 你要忍一下~~");break;
-    case 4:msg.reply("我現在是不是要逃命阿");break;
+    case 3:msg.reply("雞雞!雞雞!我要吃雞雞!");break;
+    case 4:msg.reply("");break;
     case 5:msg.reply("拜訪我的家園!");break;
     case 6:msg.reply("我們昨天上到哪?");break;
     case 7:msg.reply("你找我的ID Respect You Know!");break;
